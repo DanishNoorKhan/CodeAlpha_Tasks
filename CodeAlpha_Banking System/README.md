@@ -52,19 +52,7 @@ The system is built around 4 core classes:
 | Savings Account | Minimum balance of **Rs. 1,000** |
 | Business Account | Minimum balance of **Rs. 10,000** |
 | Transfer Amount | Between **Rs. 500 – Rs. 50,000**, must be a multiple of 500 |
- 
----
- 
-## 🚀 Getting Started
- 
-### Prerequisites
-- A C++ compiler (e.g. **g++ / MinGW**) on Windows, or any IDE such as Code::Blocks, Dev-C++, or Visual Studio
-### Compile & Run
-```bash
-g++ BankingSystem.cpp -o BankingSystem
-./BankingSystem
-```
- 
+
 ---
  
 ## 🖥️ How to Use
@@ -82,21 +70,9 @@ g++ BankingSystem.cpp -o BankingSystem
    - Logout
 ---
  
-## 🔮 Future Improvements
- 
-- Persist customer/account data using file handling or a database (currently in-memory only)
-- Encrypt MPIN storage instead of storing as plain text
-- Add an admin panel for bank-level reports and analytics
-- Remove Windows-specific calls for cross-platform support
----
- 
 ## 👤 Author
  
 **Danish**
 Built as part of the **CodeAlpha C++ Programming Internship**.
  
 ---
- 
-## 📄 License
- 
-This project is open-source and available for educational purposes.
