@@ -84,9 +84,5 @@ The password must:
 
 ## 👤 Author
 
-**Danish**
+**Danish Noor**
 Built as part of the **CodeAlpha C++ Programming Internship**.
-
----
-ENDOFREADME
-echo "done"
